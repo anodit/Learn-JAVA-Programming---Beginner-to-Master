@@ -1,0 +1,5 @@
+Generics in java
+Object Class -> java.lang package
+Object obj = new String("hi"); --> Generalization
+String str = obj; ---> Not Allowed
+String str = (String) obj;
